@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\day5\Homework\Task 5\bin\Debug\net9.0\Task 5.exe
+C:\Users\user\Desktop\day5\Homework\Task 5\bin\Debug\net9.0\Task 5.deps.json
+C:\Users\user\Desktop\day5\Homework\Task 5\bin\Debug\net9.0\Task 5.runtimeconfig.json
+C:\Users\user\Desktop\day5\Homework\Task 5\bin\Debug\net9.0\Task 5.dll
+C:\Users\user\Desktop\day5\Homework\Task 5\bin\Debug\net9.0\Task 5.pdb
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\Task 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\Task 5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\Task 5.AssemblyInfo.cs
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\Task 5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\Task 5.dll
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\refint\Task 5.dll
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\Task 5.pdb
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\Task 5.genruntimeconfig.cache
+C:\Users\user\Desktop\day5\Homework\Task 5\obj\Debug\net9.0\ref\Task 5.dll
